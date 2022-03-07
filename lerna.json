@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "src/components/*"
+  ],
+  "version": "independent",
+  "command": {
+    "publish": {
+      "registry": "https://www.myget.org/F/natcp-web/npm/"
+    }
+  }
+}
