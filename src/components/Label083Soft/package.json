@@ -1,6 +1,6 @@
 {
   "name": "@083soft/label-component",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "083Soft Label React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -24,5 +24,5 @@
     "@083soft:registry": "https://npm.pkg.github.com/083soft"
   },
   "autor": "cesar camacho",
-  "license" : "ISC"
+  "license": "ISC"
 }
